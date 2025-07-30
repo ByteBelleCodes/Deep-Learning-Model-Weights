@@ -4,7 +4,7 @@ A curated collection of pre-trained deep learning model weights for computer vis
 # Deep Learning Model Weights
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
-[![Downloads](https://img.shields.io/github/downloads/yourusername/deep-learning-model-weights/total.svg)](https://github.com/yourusername/deep-learning-model-weights/releases)
+[![Downloads](https://img.shields.io/github/downloads/ByteBelleCodes/deep-learning-model-weights/total.svg)](https://github.com/bytebellecodes/deep-learning-model-weights/releases)
 
 A collection of pre-trained deep learning model weights for easy access and transfer learning.
 
